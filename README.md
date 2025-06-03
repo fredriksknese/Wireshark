@@ -6,4 +6,4 @@ I'm using this with a capture that only has DHCP packets.
 
 Copy files to to "C:\Users\XXX\AppData\Roaming\Wireshark\plugins\4.2"
 
-500k of packets takes around 2 mins to print
+500k of packets takes around 60 seconds to print

@@ -11,7 +11,7 @@ local menuable_tap = function(args)
 
 	local txids = {}
 	-- Declare the window we will use
-	tw = TextWindow.new("DHCP TX Counter")
+	tw = TextWindow.new("DHCP Counter")
 	-- this is our tap
 	tap = Listener.new();
 
